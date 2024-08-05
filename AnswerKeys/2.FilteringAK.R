@@ -2,7 +2,7 @@
 # Practice 2: Filtering data ----------------------------------------------
 
 ## Load data ----
-hotel <- read_csv("https://bit.ly/HotelsDM23")
+hotel <- read_csv("https://bit.ly/DM24_Hotels")
 
 
 ## Compute proportion of short notice bookings  ----
